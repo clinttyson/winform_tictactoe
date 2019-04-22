@@ -1,0 +1,9 @@
+C:\Users\clinton.tyson\source\repos\winform_tictactoe_ct\winform_tictactoe_ct\bin\Release\winform_tictactoe_ct.exe.config
+C:\Users\clinton.tyson\source\repos\winform_tictactoe_ct\winform_tictactoe_ct\bin\Release\winform_tictactoe_ct.exe
+C:\Users\clinton.tyson\source\repos\winform_tictactoe_ct\winform_tictactoe_ct\bin\Release\winform_tictactoe_ct.pdb
+C:\Users\clinton.tyson\source\repos\winform_tictactoe_ct\winform_tictactoe_ct\obj\Release\winform_tictactoe_ct.frmTicTacToe.resources
+C:\Users\clinton.tyson\source\repos\winform_tictactoe_ct\winform_tictactoe_ct\obj\Release\winform_tictactoe_ct.Properties.Resources.resources
+C:\Users\clinton.tyson\source\repos\winform_tictactoe_ct\winform_tictactoe_ct\obj\Release\winform_tictactoe_ct.csproj.GenerateResource.cache
+C:\Users\clinton.tyson\source\repos\winform_tictactoe_ct\winform_tictactoe_ct\obj\Release\winform_tictactoe_ct.csproj.CoreCompileInputs.cache
+C:\Users\clinton.tyson\source\repos\winform_tictactoe_ct\winform_tictactoe_ct\obj\Release\winform_tictactoe_ct.exe
+C:\Users\clinton.tyson\source\repos\winform_tictactoe_ct\winform_tictactoe_ct\obj\Release\winform_tictactoe_ct.pdb
