@@ -1,0 +1,3 @@
+1. Download zip file from https://github.com/clinttyson/winform_tictactoe.
+2. To view the code in Visual Studio, open the .sln file in Visual Studio.
+3. To run the Tic Tac Toe program, navigate to the Release folder located at "..\winform_tictactoe\winform_tictactoe-master\winform_tictactoe_ct\bin\Release" and double click the winform_tictactoe_ct.exe file.
